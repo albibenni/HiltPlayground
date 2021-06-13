@@ -1,4 +1,4 @@
-package com.benni.hiltplatground
+package com.benni.hiltplayground
 
 import org.junit.Test
 

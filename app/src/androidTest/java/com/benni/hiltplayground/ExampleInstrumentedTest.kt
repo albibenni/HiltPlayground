@@ -1,4 +1,4 @@
-package com.benni.hiltplatground
+package com.benni.hiltplayground
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
